@@ -16,4 +16,4 @@ homeassistant:
   packages: !include_dir_named packages
 ```
 
-Interface elements are pretty straightforward and are not included in the repositery. On top of it, <a href="https://github.com/rgc99/irrigation-unlimited-card">Irrigation unlimited companion card</a>.
+Interface elements are pretty straightforward and are not included in the repositery. On top of it, <a href="https://github.com/rgc99/irrigation-unlimited-card">Irrigation unlimited companion card</a> is used and turns out to be very compact and effecient.
