@@ -10,6 +10,8 @@ I share the code I came to in order to automate irrigation of a 13 zones sytem t
 
 All zones adjustments are based on lawn adjustment (id7 in the code). A standard watering time has been defined by experience for each of them and a percentage is computed from this standard time. Bucket is reset once sequence 1 is finished (nuit or night if your prefer).
 
+input_datetime.watering_s1_start sets sequence 1 start and can be changed if need arises. Watering time computation is done 2' before and watering time sequence set is done 1 minute before. Please refer to the code to see how it is done.
+
 In Home assistant configuration file this shall be added:
 ```
 homeassistant:
@@ -17,3 +19,7 @@ homeassistant:
 ```
 
 Interface elements are pretty straightforward and are not included in the repositery. On top of it, <a href="https://github.com/rgc99/irrigation-unlimited-card">Irrigation unlimited companion card</a> is used and turns out to be very compact and effecient.
+
+My deep acknowledgements goes to both <a href="https://github.com/rgc99">rgc99</a> and <a href="[https://github.com/rgc99](https://github.com/jeroenterheerdt)https://github.com/jeroenterheerdt">jeroenterheerdt</a> with a special thanks to rgc99 who help me to sorted out some issues and become more Home Assistant proficient.
+
+
