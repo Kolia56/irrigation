@@ -2,7 +2,7 @@
 
 ## Home Assistant - Irrigation unlimited and Smart irrigation integration
 
-I share the code I came to for automating irrigation of a 13 zones sytem that is made of:
+I share the code for automating irrigation of a 13 zones sytem that is made of:
 - One lawn watered by a sprinkler
 - 12 separate zones watered by drip lines
 
