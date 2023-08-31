@@ -20,6 +20,6 @@ homeassistant:
 
 Interface elements are pretty straightforward and are not included in the repositery. On top of it, <a href="https://github.com/rgc99/irrigation-unlimited-card">Irrigation unlimited companion card</a> is used and turns out to be very compact and effecient.
 
-My deep acknowledgements goes to both <a href="https://github.com/rgc99">rgc99</a> and <a href="[https://github.com/rgc99](https://github.com/jeroenterheerdt)https://github.com/jeroenterheerdt">jeroenterheerdt</a> with a special thanks to rgc99 who help me to sorted out some issues and become more Home Assistant proficient.
+My deep acknowledgements goes to both <a href="https://github.com/rgc99">rgc99</a> and <a href="https://github.com/jeroenterheerdt">jeroenterheerdt</a> with a special thanks to rgc99 who help me to sorted out some issues and become more Home Assistant proficient.
 
 
