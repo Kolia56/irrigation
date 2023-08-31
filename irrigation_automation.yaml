@@ -20,7 +20,6 @@ automation:
 
   - id: 52f053ea-eaf7-46f0-b741-e7bbca7ab7b9
     alias: Irrigation - Mise hors tension automatique du pressostat
-    # la mise sous tension automatique est déclenchée par un évènement envoyé par l'IPX800 à dz
     description: ""
     trigger:
       - platform: numeric_state
